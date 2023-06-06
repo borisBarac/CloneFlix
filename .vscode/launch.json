@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "chrome",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_development.dart",
+            "args": [
+                "--flavor",
+                "development",
+                "-d",
+                "chrome",
+            ],
+            "flutterMode": "debug" // "profile" || "release"
+        },
+        {
+            "name": "iphone 14",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main_development.dart",
+            "args": [
+                "--flavor",
+                "development",
+                "-d",
+                "A496A51F-4643-4473-BBD9-2F326BBF5446",
+            ],
+            "flutterMode": "debug" 
+        },
+    ]
+}

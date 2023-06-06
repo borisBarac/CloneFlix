@@ -1,0 +1,29 @@
+name: api_core
+description: Local package for network communication with out main API.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: 3.3.10
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^2.2.0
+  http: ^0.13.5
+  json_annotation: ^4.8.0
+  meta: ^1.8.0
+
+dev_dependencies:
+  build_runner: ^2.3.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.2.0
+  json_serializable: ^6.5.4
+  mocktail: ^0.3.0
+  very_good_analysis: ^4.0.0+1
+
+flutter:
+  assets:
+    - assets/mocks/

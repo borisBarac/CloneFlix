@@ -1,0 +1,43 @@
+{
+    "_id": "52577ec1760ee36aaa5bea4a",
+    "air_date": "2001-07-14",
+    "episodes": [
+        {
+            "air_date": "2001-07-14",
+            "episode_number": 1,
+            "id": 355957,
+            "name": "Part 1",
+            "overview": "After the fall of the roman empire the Britain's are under attack from the barbaric saksen and the old religion from the goddess threatens to be oppressed by the rising Christianity",
+            "production_code": "",
+            "runtime": 91,
+            "season_number": 1,
+            "show_id": 5256,
+            "still_path": "/myMNGRfl1k7ueyahuE2YDzaf9i8.jpg",
+            "vote_average": 8.0,
+            "vote_count": 1,
+            "crew": [],
+            "guest_stars": []
+        },
+        {
+            "air_date": "2001-07-15",
+            "episode_number": 2,
+            "id": 355958,
+            "name": "Part 2",
+            "overview": "Morgaine abandons her son, Mordred, leaving him in the hands of her aunt, Morgause. When she returns to Camelot, Morgaine meets Sir Accolon, and finds herself drawn to him - but thanks to Guinevere's manipulations she ends up marrying his father.",
+            "production_code": "",
+            "runtime": 91,
+            "season_number": 1,
+            "show_id": 5256,
+            "still_path": "/zYOpnRNvWUwxBlqIpCqHjzBvOI4.jpg",
+            "vote_average": 0.0,
+            "vote_count": 0,
+            "crew": [],
+            "guest_stars": []
+        }
+    ],
+    "name": "Season 1",
+    "overview": "",
+    "id": 15199,
+    "poster_path": "/gilC6yPmIM9UHqmHSXfiuXGyvNN.jpg",
+    "season_number": 1
+}

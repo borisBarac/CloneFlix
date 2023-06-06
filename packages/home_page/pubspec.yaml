@@ -1,0 +1,37 @@
+name: home_page
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: 3.3.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared:
+    path: ../shared
+  api_core:
+    path: ../api_core
+  caching_service:
+    path: ../caching_service
+  flutter_adaptive_scaffold: ^0.1.0
+  get_it: ^7.2.0
+  bloc: ^8.1.0
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  mocktail: ^0.3.0
+
+dev_dependencies:
+  build_runner: ^2.1.11
+  bloc_test: ^9.1.0
+  flutter_test:
+    sdk: flutter
+  monarch: ^3.0.0
+  very_good_analysis: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - ../api_core/assets/

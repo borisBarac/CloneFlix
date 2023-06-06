@@ -1,0 +1,3 @@
+# to avoid messing up CRUD on the DB
+# and to avoid needing to think of race conditions in out tests
+concurrency: 3
